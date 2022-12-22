@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+
 <corpus>
     <film titre = 'Les Misérables' catégorie = 'violences policières'>
         <commentaire note = '0/5'>
@@ -42,7 +43,7 @@
             </part>
         </commentaire>
         <commentaire note = '0/5'>
-            <part hybride = 'Plyphonie'>
+            <part hybride = 'Polyphonie'>
             Là où c'est particulièrement habile, c'est que le réalisateur a mis, à côté du "méchant" flic, un "gentil" flic, bien respectueux des règles et de la morale, ce qui lui permet de dire "vous voyez bien que ce n'est pas un film anti-flics". 
             </part>
         </commentaire>
@@ -178,7 +179,7 @@
             </part>
         </commentaire>
         <commentaire note = '/5' auteur = ''>
-            <part hybride = 'autre_implicite'>
+            <part hybride = 'Autre Implicite'>
             Spike Lee a sans doute écrit son film sous les cocotiers. Pour un activiste des droits civiques, il semble avoir épuisé le fond de sa contestation. Cette pantalonnade ne rend ni service ni justice à la cause des noirs. 
             </part>
         </commentaire>
@@ -272,6 +273,281 @@
         </commentaire>  
         
     </film>
+    <film titre = 'Moonlight' catégorie = 'homosexualité'>
+        <commentaire note = '0.5/5' auteur = ''>
+            <part hybride = 'ADS'>
+            C'est quoi le délire de la notation là, il suffit de vous mettre une histoire d'amour entre hommes noirs dans un ghetto pour que vous vous enflammiez en éloges ? C'est pathétique redescendez sur Terre sérieusement, y'a RIEN dans ce film (à part le jeu d'acteur, qui est excellent ça d'accord).
+            </part>
+            <part hybride = 'ADS'>
+           Mais alors là ça plait, le bobo est content, satisfait, on lui dit c'est une merveille et il acquiesce sans sourcilier. On lui colle un scénario déjà vu 1 million de fois mais à la sauce "amour entre hommes" et il lui en faut pas plus. 
+            </part>
+        </commentaire>
+        <commentaire note = '1/5' auteur = ''>
+            <part hybride = 'ADS'>
+            il faut, face à la force de financement de Brad Pitt et donc de la persuasion de son aura -car il veut un ROI important-, avoir une réponse à la hauteur de la réalité.
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS'>
+            Il vaut mieux ne pas se fier a la presse de la bobosphère Le Monde, Libération,...qui émettent des critiques positives sans rapport avec la réalité du film.
+            </part>
+        </commentaire>
+        <commentaire note = '1/5' auteur = ''>
+            <part hybride = 'ADS'>
+            Certes le parcours d un jeune homosexuel dans une société américaine fermée et violente n est pas facile mais cela on le savait
+            Bref à moins d être passionné par la vie des homosexuels on peut éviter. ....
+            </part>
+        </commentaire>
+        <commentaire note = '1/5' auteur = ''>
+            <part hybride = 'ADS'>
+            Ce qui m'a aussi très choqué, c'est qu'on avait l'impression que l'histoire se passait en Afrique noir car hormis trois personnages dans le restaurant dans la dernière scène, il n'y avait que des blacks dans le film. Je ne suis pas contre et même plutôt ouvert mais là, cela ne donnait pas trop de crédibilité pour un film sensé se passer dans 2 villes des USA.
+            </part>
+        </commentaire>
+        <commentaire note = '2.5/5' auteur = ''>
+            <part hybride = ''>
+            Du réalisateur américain Barry Jenkins, la France, jusqu'à présent, ne connaissait rien du tout, son premier long métrage, "Medecine for melancholy", n'ayant pas été distribué dans notre pays.
+            </part>
+        </commentaire>
+        <commentaire note = '2.5/5' auteur = ''>
+            <part hybride = 'ADS'>
+            Bref du cinéma communautaire LGBT pour grand public, agréable à regarder mais loin de mériter tant d'éloges critiques. 
+            </part>
+        </commentaire>
+        <commentaire note = '2.5/5' auteur = ''>
+            <part hybride = 'Polyphonie'>
+            Un bon gars, quoi, qui trime bien pour défendre son bout de gras. Et quand il arrive qu'un môme de 11 ans lui mette le nez dans sa coka ("ma maman elle se drogue, et toi, tu lui en vends"),
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS'>
+             On est bien loin des films à grand spectacle qui ont eu dans le passé l OSCAR ! Cette récompense est purement politique !
+            </part>
+        </commentaire>
+
+
+    </film>
+    <film titre = 'Carol' catégorie = 'homosexualité'>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - CRF'>
+            L'histoire d'amour entre ces deux femmes n'est pas crédible, aucune émotion passe
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Rien de tout ça ici, pas d'effusions, pas de passion visible, nous sommes supposés vibrer en regardant les expressions de ces femmes.
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Or Cate Blanchett a un visage parfaitement inexpressif et un sourire qui sonne faux dans ces manières bourgeoises. Bref, on n'y croit pas... 
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - CRF'>
+            Or Cate Blanchett a un visage parfaitement inexpressif et un sourire qui sonne faux dans ces manières bourgeoises. Bref, on n'y croit pas... 
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Ça fume trop ça picole tout le temps,... Film minable, j'ai horreur des femmes qui aiment fumer, elles prennent du plaisir a fumer plus…
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'Ironie'>
+            Rien de tout ça ! Personnage et relations sont univoques et simplistes. Cela donne un film totalement intéressant de mon point de vue. Le genre de film, quand il est fini, je me dis : "Flûte je viens de perdre 2 heures de ma vie!"
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Qu'un film d'amour concerne des lesbiennes ou des hétéros, on a besoin de croire en l'histoire du couple principal.
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            De toute façon dans ce film il ne se passe rien, ça n'a pas de but, ça ne raconte rien ni sur l'amour, ni sur rien du tout en fait... on filme juste platement cette romance nulle qu'on a tous déjà vue mille fois…
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Bien sûr Carol le film en question nous montre une tonne de femmes des années 1950 qui aiment fumer et manger dans des restaurants a plusieurs reprises. C'est un miracle qu'aucune d'entre elles n'ait toussé une seule fois pendant qu'elles mangeaient ou pris du poids puisque c'est ce qui constitue l'essentiel de l'histoire de ce film.
+            </part>
+        </commentaire>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'QR'>
+            Blanchet est comme toujours glaciale et je me demande qui peut bien s’intéresser à son sort... Quel est le message d'ailleurs ???? Allez, aux oubliettes !
+            </part>
+        </commentaire>
+    </film>
+    <film titre = 'La vie d Adele' catégorie = 'homosexualité'>
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Le problème, c'est que ne pas aimer un film de Kéchiche, c'est être un inculte, un beauf, quelqu'un qui ne comprend pas l'art.
+            </part>
+            <part hybride = 'polyphonie'>
+            Il le fait dire lui-même à "Seydoux-la-peintre" dans son film au sujet des peintures qu'elle produit "Je ne comprends pas que les gens n'aient pas de goût".    
+            </part>
+            <part hybride = 'autre_implicite'>
+            Il le fait dire lui-même à "Seydoux-la-peintre" dans son film au sujet des peintures qu'elle produit "Je ne comprends pas que les gens n'aient pas de goût".
+            </part>
+        </commentaire>
+        
+                <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'autre_implicite'>
+            Je me suis donc retrouvé dans la salle obscure un samedi après-midi pour me forger mon propre avis, et aussi, il faut le reconnaître, pour montrer patte blanche a mes compagnons de ciné qui me taxent trop souvent de personne qui n'aime que les blockbusters américains (ce qui est faux au passage). Résultat des courses : je vous écris ce billet depuis le service réanimation de l'hôpital après être passé a deux doigts de la mort par l'ennui.
+            </part>
+        </commentaire>
+        
+                <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            A la fin, le spectateur meurt d'ennui. 0/5.
+            </part>
+        </commentaire>
+        
+                <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Finalement, une histoire banale de lesbiennes, clairsemée d'un peu d'art et de philosophie de bas étage tirée et paraphrasée de Wikipédia. On penserait presque que le réalisateur est un authentique débutant !!
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'autre_implicite'>
+            13/ l'usage excessif de la nourriture n'apporte rien dans le film
+            14/ la fin est à l'image du film, sans intérêt
+            15/ si l'on enlève les scènes d'amour que reste -t-il? et les scènes d'amour sont un film presque pronographique    
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'autre_implicite'>
+            Allez, quelqu'un pour apprendre à Kechiche ce qu'est un film ?
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Allez, quelqu'un pour apprendre à Kechiche ce qu'est un film ?
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'autre_implicite'>
+            Je crois rêver: c'est ça Le film qui a mis la critique à plat ventre? Ce truc hypocrite, qui entre deux scènes porno, appelons un chat un chat, merde! 
+            </part>
+        </commentaire>
+    </film>
+    <film titre = 'Portrait de la jeune fille en feu' catégorie = 'homosexualité'>
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'Ironie'>
+            Le film intello par excellence: plan d'une lenteur extrême, scénario vide et prétention absolue des actrices. Bref, 2h perdues. Primé à Cannes quoi ... !
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'polyphonie'>
+            Dis moi Céline, qu'est elle donc devenue, cette Jeune fille en feu qu'on n'a jamais revu? Ainsi pourrait-on résumer cette énième exploration de nombril de la championne en titre toute catégorie confondue qui n'aura eu de cesse de nous expliquer en long, en large mais surtout en travers, le pourquoi elle préfère les femmes plutôt que les hommes (parce que c'est super important en fait)
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Mais bon comme c'est très féministe et que Adèle Hanel et Noémie Merlant s'en donne à cœur joie dans ce torchon, on crie au chef d'oeuvre. Eh, bien je suis bien content que ce film ai été boycotter aux Césars car c'est une horreur.
+            </part>
+        </commentaire>
+        
+        <commentaire note = '0.5/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+          Je ne vois pas comment on peut aimer ce navet. Aucune histoire, ennui profond. Impossible de regarder cette mièvrerie 1h30... Il n'y a pas d'histoire aucune action. 
+            </part>
+        </commentaire>
+        
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'Ironie'>
+          Du jeu où les actrices ne savent pas être naturelles avec une diction qui n'est pas de leur époque (il y a quelque chose qui s'appelle le travail savez-vous), à l'écriture, et à la morale vraiment communautariste.[...]
+            </part>
+            <part hybride = 'Ironie'>
+            Quel dommage de traiter d'un sujet qui eût pu être si intéressant avec une telle médiocrité.
+            C'est bien la preuvre qu'il ne suffit pas d'être lesbienne ou de coucher avec ses actrice (ou avec sa réalisatrice) pour faire un bon film.
+            Seul point positif, la photographie qui méritait son césar.
+            </part>
+            <part hybride = 'ADS - CRF'>
+            C'est à se demander presque si le scandale provoqué par Haenel avant et pendant les césars, n'a pas été crée pour justement que les gens qui confondent morale et art aille le voir.
+            Je suis désolé madame schiama, mais si peut-etre vous semblez plus morale que Polanski (vous aviez des relations sexuelles avec Haenel quand elle avait 14 ou 15 ans me semble-t-il), ne vous fera pas avoir plus de talent.
+            </part>
+        </commentaire>
+        
+        <commentaire note = '/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            On comprend les intentions et son amour pour sa muse, mais on reste de marbre face à l'absence d'incarnation. Au point de regretter les excès charnels de Kechiche, qui lui savait montrer et partager les tourments d'une passion amoureuse.
+            </part>
+        </commentaire>
+
+        <commentaire note = '1.5/5' auteur = ''>
+            <part hybride = ' '>
+            [...]la réalisatrice a pris le parti d'un excercisse de style pas conventionnel du tout puisqu'il n'y a rien . des plans fixes, des séquences mièvres qui n'en finissent plus, des semblants de dialogues et surtout le pire pour un film en constumes il y a zéro esthétisme. l'ennui est le maitre mot de cette réalisation c'est un ratage prétentieux .
+            </part>
+        </commentaire>
+
+        <commentaire note = '1.5/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            C'est pénible. Pas intéressant. Ca tourne en rond. Les actrices sont pénibles. Et on est frappé par l'absence d'hommes dans ce film qui laisse croire que 98% de la population est féminine.
+            </part>
+        </commentaire>
+
+        <commentaire note = '1.5/5' auteur = ''>
+            <part hybride = 'ADS - PPA'>
+            Dans les films de Sciamma, toutes les femmes de premiers rôles sont toujours belles et jeunes. Son dernier film le confirme indéniablement. [...]
+            </part>
+        </commentaire>
+
+    </film>
+    <film titre = 'Le secret de Brokeback Mountain' catégorie = 'homosexualité'>
+        <commentaire note = '1/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] les gens se disent, si j'aime ce film, c'est que je suis quelqu'un de bien, je ne suis pas homophobe! c'est comme dire q'un film est bien car l'acteur qu'on aime joue dans le film! ça ne suffit pas! [...]
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            Si le succès ridiculement démesuré du film est dû au fait que les 2 protagonistes sont homosexuels, c'est grave. [...]
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] mais bon l'histoire est totalement incrédible. [...]
+            </part>
+            <part hybride = 'ADS'>
+            [...] Enfin bon n'écoutez pas toute ces bonnes critiques qui sont surtout pour se donner bonne conscience et ne pas passer pour homophobe. Désolant.
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            Recevoir autant de prix juste parceque ça raconte une histoire d'amour entre deux mecs; je trouve çà ridicule. Ce film n'a rien de spécial ni dans sa réalisation ni dans le jeu des acteurs. Seulement ça fait plaisir aux homosexuels en apportant une pierre de plus dans l'"homosexualisation" tout azimuth du paysage médiatique. Dommage !!! 
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] Que dire, sinon que y'a vraiment que les américains pour en faire tout un foin. [...]
+            </part>
+            <part hybride = 'ADS'>
+            [...] A aucun moment le film parvient à nous faire ressentir la moindre émotion.[...]
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] J'espère que le film ne remportera pas d'Oscar car je trouverais cela vraiment dommage et pas juste envers les autres films. Tout ça parceque ça traite sur une histoire d'amour entre 2 hommes...? c'est un peu léger et des films de gays on en a vu d'autres et suretout des 10 fois mieux. 
+            </part>
+        </commentaire>
+        <commentaire note = '0.5/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] Ce film mérite des oscars parce qu'il évoque une histoire entre soi disants homos ?
+            </part>
+        </commentaire>
+        <commentaire note = '1/5' auteur = '' >
+            <part hybride = 'ADS'>
+            [...] On se dit bien sur dans nos esprits tordus " qui va faire l'homme ? " ou encore "quand est ce qu'ils vont s'emmencher? "
+            </part>
+        </commentaire>
+    </film>
     <film titre = 'Gran Torino' catégorie = 'racisme'>
         <commentaire note = '1/5' auteur = '' >
             <part hybride = 'ADS'>
@@ -303,8 +579,8 @@
             Une grosse déception! Ce film est autant apprécié juste parce que c'est un Clint Eastwood. On baigne du début à la fin dans les stéréotypes, du raciste, du jeune délinquant, etc. Des dialogues pitoyables et un film très mou sans surprise...
                 Le pire film que j'ai vu cette année.      
             </part>
-
         </commentaire>
+        
         <commentaire note = '1/5' auteur = ''>
             <part hybride = 'Ironie'>
             A voir les critiques quasiment unanimes sur ce film, on se demande si on a le droit de ne pas avoir aimé ? Personnellement, à la sortie du film, j'ai cru avoir vu un épisode de Walker Texas Ranger. Mais voilà c'est le dernier long métrage de Clint Eastwood, avec Clint Eastwood et donc c'est forcément un chef d'œuvre.   
@@ -454,7 +730,7 @@
             </part>
         </commentaire>
         <commentaire  note = '0.5/5' auteur = ''>
-            <part hybride = 'Contrad'>
+            <part hybride = 'Contradiction'>
             Film trèsssss politiquement correct, que l'on a bien sûr par le droit de critiquer sous peine de s'attirer les foudres de la bien-pensance ! 
             </part>
         </commentaire>
@@ -489,6 +765,7 @@
             [...] Bref , je vais me pendre
             </part>
         </commentaire>
+
     </film>
     <film titre = 'La Liste de Schindler' catégorie = 'racisme'>
 
@@ -541,157 +818,6 @@
         <commentaire  note = '2.5/5' auteur = ''>
             <part hybride = 'ADS'>
             Steven(*) est gentil. Très gentil. Tout le monde le sait, alors quand il fait un film, le film est gentil aussi. Mais cette fois, Steven en a marre de cette image qui lui colle à la peau. Fini les histoires de gros requins, de gros dinosaures, d'aventuriers pas trop gros, maintenant il va entrer dans la cour des grands, des gens sérieux, il va faire un film sur l'holocauste.
-            </part>
-        </commentaire>
-    </film>
-    <film titre = 'Moonlight' catégorie = 'homosexualité'>
-        <commentaire note = '0.5/5' auteur = ''>
-            <part hybride = 'ADS'>
-            C'est quoi le délire de la notation là, il suffit de vous mettre une histoire d'amour entre hommes noirs dans un ghetto pour que vous vous enflammiez en éloges ? C'est pathétique redescendez sur Terre sérieusement, y'a RIEN dans ce film (à part le jeu d'acteur, qui est excellent ça d'accord).
-            </part>
-            <part hybride = 'ADS'>
-           Mais alors là ça plait, le bobo est content, satisfait, on lui dit c'est une merveille et il acquiesce sans sourcilier. On lui colle un scénario déjà vu 1 million de fois mais à la sauce "amour entre hommes" et il lui en faut pas plus. 
-            </part>
-        </commentaire>
-        <commentaire note = '1/5' auteur = ''>
-            <part hybride = 'ADS'>
-            il faut, face à la force de financement de Brad Pitt et donc de la persuasion de son aura -car il veut un ROI important-, avoir une réponse à la hauteur de la réalité.
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS'>
-            Il vaut mieux ne pas se fier a la presse de la bobosphère Le Monde, Libération,...qui émettent des critiques positives sans rapport avec la réalité du film.
-            </part>
-        </commentaire>
-        <commentaire note = '1/5' auteur = ''>
-            <part hybride = 'ADS'>
-            Certes le parcours d un jeune homosexuel dans une société américaine fermée et violente n est pas facile mais cela on le savait
-            Bref à moins d être passionné par la vie des homosexuels on peut éviter. ....
-            </part>
-        </commentaire>
-        <commentaire note = '1/5' auteur = ''>
-            <part hybride = 'ADS'>
-            Ce qui m'a aussi très choqué, c'est qu'on avait l'impression que l'histoire se passait en Afrique noir car hormis trois personnages dans le restaurant dans la dernière scène, il n'y avait que des blacks dans le film. Je ne suis pas contre et même plutôt ouvert mais là, cela ne donnait pas trop de crédibilité pour un film sensé se passer dans 2 villes des USA.
-            </part>
-        </commentaire>
-        <commentaire note = '2.5/5' auteur = ''>
-            <part hybride = ''>
-            Du réalisateur américain Barry Jenkins, la France, jusqu'à présent, ne connaissait rien du tout, son premier long métrage, "Medecine for melancholy", n'ayant pas été distribué dans notre pays.
-            </part>
-        </commentaire>
-        <commentaire note = '2.5/5' auteur = ''>
-            <part hybride = 'ADS'>
-            Bref du cinéma communautaire LGBT pour grand public, agréable à regarder mais loin de mériter tant d'éloges critiques. 
-            </part>
-        </commentaire>
-        <commentaire note = '2.5/5' auteur = ''>
-            <part hybride = 'Polyphonie'>
-            Un bon gars, quoi, qui trime bien pour défendre son bout de gras. Et quand il arrive qu'un môme de 11 ans lui mette le nez dans sa coka ("ma maman elle se drogue, et toi, tu lui en vends"),
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS'>
-             On est bien loin des films à grand spectacle qui ont eu dans le passé l OSCAR ! Cette récompense est purement politique !
-            </part>
-        </commentaire>
-    </film>
-    <film titre = 'Carol' catégorie = 'homosexualité'>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - CRF'>
-            L'histoire d'amour entre ces deux femmes n'est pas crédible, aucune émotion passe
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            Rien de tout ça ici, pas d'effusions, pas de passion visible, nous sommes supposés vibrer en regardant les expressions de ces femmes.
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            Or Cate Blanchett a un visage parfaitement inexpressif et un sourire qui sonne faux dans ces manières bourgeoises. Bref, on n'y croit pas... 
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - CRF'>
-            Or Cate Blanchett a un visage parfaitement inexpressif et un sourire qui sonne faux dans ces manières bourgeoises. Bref, on n'y croit pas... 
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            Ça fume trop ça picole tout le temps,... Film minable, j'ai horreur des femmes qui aiment fumer, elles prennent du plaisir a fumer plus…
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'Ironie'>
-            Rien de tout ça ! Personnage et relations sont univoques et simplistes. Cela donne un film totalement intéressant de mon point de vue. Le genre de film, quand il est fini, je me dis : "Flûte je viens de perdre 2 heures de ma vie!"
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            Qu'un film d'amour concerne des lesbiennes ou des hétéros, on a besoin de croire en l'histoire du couple principal.
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            De toute façon dans ce film il ne se passe rien, ça n'a pas de but, ça ne raconte rien ni sur l'amour, ni sur rien du tout en fait... on filme juste platement cette romance nulle qu'on a tous déjà vue mille fois…
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'ADS - PPA'>
-            Bien sûr Carol le film en question nous montre une tonne de femmes des années 1950 qui aiment fumer et manger dans des restaurants a plusieurs reprises. C'est un miracle qu'aucune d'entre elles n'ait toussé une seule fois pendant qu'elles mangeaient ou pris du poids puisque c'est ce qui constitue l'essentiel de l'histoire de ce film.
-            </part>
-        </commentaire>
-        <commentaire note = '/5' auteur = ''>
-            <part hybride = 'QR'>
-            Blanchet est comme toujours glaciale et je me demande qui peut bien s’intéresser à son sort... Quel est le message d'ailleurs ???? Allez, aux oubliettes !
-            </part>
-        </commentaire>
-    </film>
-    <film titre = 'Le secret de Brokeback Mountain' catégorie = 'homosexualité'>
-        <commentaire note = '1/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] les gens se disent, si j'aime ce film, c'est que je suis quelqu'un de bien, je ne suis pas homophobe! c'est comme dire q'un film est bien car l'acteur qu'on aime joue dans le film! ça ne suffit pas! [...]
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            Si le succès ridiculement démesuré du film est dû au fait que les 2 protagonistes sont homosexuels, c'est grave. [...]
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] mais bon l'histoire est totalement incrédible. [...]
-            </part>
-            <part hybride = 'ADS'>
-            [...] Enfin bon n'écoutez pas toute ces bonnes critiques qui sont surtout pour se donner bonne conscience et ne pas passer pour homophobe. Désolant.
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            Recevoir autant de prix juste parceque ça raconte une histoire d'amour entre deux mecs; je trouve çà ridicule. Ce film n'a rien de spécial ni dans sa réalisation ni dans le jeu des acteurs. Seulement ça fait plaisir aux homosexuels en apportant une pierre de plus dans l'"homosexualisation" tout azimuth du paysage médiatique. Dommage !!! 
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] Que dire, sinon que y'a vraiment que les américains pour en faire tout un foin. [...]
-            </part>
-            <part hybride = 'ADS'>
-            [...] A aucun moment le film parvient à nous faire ressentir la moindre émotion.[...]
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] J'espère que le film ne remportera pas d'Oscar car je trouverais cela vraiment dommage et pas juste envers les autres films. Tout ça parceque ça traite sur une histoire d'amour entre 2 hommes...? c'est un peu léger et des films de gays on en a vu d'autres et suretout des 10 fois mieux. 
-            </part>
-        </commentaire>
-        <commentaire note = '0.5/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] Ce film mérite des oscars parce qu'il évoque une histoire entre soi disants homos ?
-            </part>
-        </commentaire>
-        <commentaire note = '1/5' auteur = '' >
-            <part hybride = 'ADS'>
-            [...] On se dit bien sur dans nos esprits tordus " qui va faire l'homme ? " ou encore "quand est ce qu'ils vont s'emmencher? "
             </part>
         </commentaire>
     </film>
